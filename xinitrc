@@ -16,5 +16,5 @@ setxkbmap -layout en_us
 
 synergys
 
-feh --bg-tile ~/Pictures/cistine-chapel.jpg
+feh --bg-tile ~/Pictures/platform.png
 exec xmonad
